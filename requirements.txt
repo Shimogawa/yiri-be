@@ -1,0 +1,7 @@
+yiri-mirai>=0.2.6, <0.3
+flask[async]>=2.0.0
+marshmallow>=3.14
+sqlalchemy>=1.4
+
+black
+mypy
